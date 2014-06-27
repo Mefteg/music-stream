@@ -1,0 +1,11 @@
+{
+  "name": "music-stream",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node bin/app.js"
+  },
+  "dependencies": {
+    "speaker": "0.1.x",
+    "lame": "1.1.x"
+  }
+}
